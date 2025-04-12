@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 🌸
 <p>
 Serendipiware is a tiny startup based in Greece, founded on October 7, 2024 by a full-stack CS student.
 
