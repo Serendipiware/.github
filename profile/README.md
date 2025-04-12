@@ -1,12 +1,8 @@
 ## Hi there 👋
+<p>
+Serendipiware is a tiny startup based in Greece, founded on October 7, 2024 by a full-stack CS student.
 
-<!--
+Our mission is to do what we love: create useful, user-friendly, and privacy-respecting software with moral values and ethics. We’re experimenting and learning as we go, on a journey to discover our identity and build something real.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We want to create cool things that are also beneficial to the world, for users like you, with you. ❤️
+</p>
